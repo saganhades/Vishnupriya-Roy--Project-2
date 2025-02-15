@@ -1,6 +1,5 @@
 head {
   background-color: blue;
-  font-size: 3em;
   font-family: 'Devonshire', cursive;
 }
 
@@ -39,4 +38,31 @@ body {
 #main-nav ul li a:hover {
   background-color: #ccc;
   color: #333;
+}
+
+h1 {
+  font-size: 4em;
+  background-color: green;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+main {
+  font-size: 2em;
+}
+  
+.welcomeimg {
+  float: right;
+  position: center;
+  border: 2px solid black;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
+}
+
+#footer {
+  font-size: 1em;
 }
