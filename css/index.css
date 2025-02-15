@@ -54,7 +54,6 @@ main {
 }
   
 .welcomeimg {
-  float: right;
   position: center;
   border: 2px solid black;
   width: 300px;
