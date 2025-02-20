@@ -1,6 +1,6 @@
 head {
   background-color: blue;
-  font-family: 'Devonshire', cursive;
+  font-family: 'Devonshire', 'Arial';
 }
 
 body {
@@ -54,6 +54,47 @@ main {
 }
   
 .welcomeimg {
+  float: left;
+  border: 2px solid black;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
+}
+
+#pinfo {
+  font-size: 2em;
+}
+
+#education {
+  font-size: 2em;
+}
+
+#skills {
+  font-size: 2em;
+  background-color: red;
+}
+
+.read {
+  float: left;
+  border: 2px solid black;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
+}
+
+.game {
+  float: left;
+  border: 2px solid black;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
+}
+
+.run {
+  float: left;
   border: 2px solid black;
   width: 300px;
   padding: 5px;
